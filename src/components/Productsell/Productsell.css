@@ -1,0 +1,40 @@
+.praductsellname{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.productinform h6{
+    font-size: 10px;
+    align-items: center;
+}
+.productselldata img{
+    height: 40px;
+    width: 60px;
+    border-radius: 10%;
+}
+.productselldata h5{
+    font-size: 15px;
+}
+.productselldata p{
+    font-size: 10px;
+}
+.productselldata h6{
+    font-size: 8px;
+    
+}
+.lastthirthyday{
+    font-size: 10px;
+}
+.lastthirthyday ul,li{
+    font-size: 10px;
+}
+.search__box{ 
+    background-color: azure;
+    border: transparent;
+}
+.border{
+    border: none;
+}
+.serchboxin{
+    border: none;
+}
